@@ -34,6 +34,8 @@
 
 #image {
   padding-left: 30px;
+  align-items: center;
+  height: auto;
 }
 
 #img-caption {
