@@ -38,6 +38,7 @@
   display: block; 
   height: auto;
   margin: auto;
+  align-items: center;
 }
 
 #img-caption {
